@@ -121,18 +121,18 @@ languages:
         weight: 1
         menu:
             main:
-            - identifier: categories
-              name: categories
-              url: /categories
-              weight: 10
-            - identifier: tags
-              name: tags
-              url: /tags
-              weight: 20        
             - identifier: archives
               name: archives
               url: /archives
-              weight: 30
+              weight: 10
+            - identifier: categories
+              name: categories
+              url: /categories
+              weight: 20
+            - identifier: tags
+              name: tags
+              url: /tags
+              weight: 30        
             - identifier: search
               name: search
               url: /search
