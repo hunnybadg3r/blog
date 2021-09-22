@@ -95,9 +95,9 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/hunnybadg3r.github.io/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+       # URL: "https://github.com/hunnybadg3r/blog/blob/master/content"
+       # Text: "Suggest Changes" # edit text
+       # appendFilePath: true # to append file path to Edit link
 
     # for search
     # https://fusejs.io/api/options.html
