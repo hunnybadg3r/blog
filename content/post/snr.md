@@ -1,4 +1,7 @@
-# Support and Resistance
+---
+title: "Support and Resistance"
+date: 2021-09-22T13:00:00+09:00
+---
 
 ## 서론
 
@@ -13,7 +16,7 @@
 ### 정의
 지지와 저항은 가격이 한 방향으로 움직이는 것을 멈추거나 방향이 바뀔 가능성이 있는 가격대를 지칭한다. 이는 주요 시점, 지점에서 매수자나 매도자가 몰리기때문에 생겨나게 된다.
 
-![Support and Resistance](sr.webp)
+![Support and Resistance](SR.webp)
 *Support and Resistance*
 
 
