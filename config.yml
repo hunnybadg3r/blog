@@ -116,7 +116,7 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
-        
+
 languages:
     en:
         languageName: "Korean"
@@ -125,20 +125,20 @@ languages:
             main:
             - identifier: categories
               name: categories
-              url: /categories/
+              url: /categories
               weight: 10
             - identifier: tags
               name: tags
-              url: /tags/
-              weight: 20
-            - identifier: search
-              name: search
-              url: /search/
-              weight: 30        
+              url: /tags
+              weight: 20        
             - identifier: archives
               name: archives
-              url: /archives/
-              weight: 40
+              url: /archives
+              weight: 30
+            - identifier: search
+              name: search
+              url: /search
+              weight: 30
            
 # Read:     https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
