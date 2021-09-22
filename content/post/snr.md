@@ -1,6 +1,8 @@
 ---
 title: "Support and Resistance"
 date: 2021-09-22T13:00:00+09:00
+tags: ["chart"]
+categories: ["trading"]
 ---
 
 ## 서론

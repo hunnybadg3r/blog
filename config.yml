@@ -100,6 +100,12 @@ params:
        # appendFilePath: true # to append file path to Edit link
 
     # for search
+    outputs:
+        home:
+            - HTML
+            - RSS
+            - JSON # is necessary
+
     # https://fusejs.io/api/options.html
     fuseOpts:
         isCaseSensitive: false
@@ -119,10 +125,14 @@ menu:
           name: tags
           url: /tags/
           weight: 20
+        - identifier: search
+          name: search
+          url: /search/
+          weight: 30
         - identifier: hunnybadg3r
           name: blog
           url: http://hunnybadg3r.github.io/
-          weight: 30
+          weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
