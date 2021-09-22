@@ -138,7 +138,7 @@ languages:
             - identifier: search
               name: search
               url: /search
-              weight: 30
+              weight: 40
            
 # Read:     https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
