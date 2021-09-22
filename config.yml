@@ -1,4 +1,5 @@
 baseURL: "http://hunnybadg3r.github.io/"
+languageCode: "en-us"
 title: hunnybadg3r
 paginate: 5
 theme: PaperMod
