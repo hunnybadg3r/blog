@@ -49,9 +49,9 @@ params:
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Home"
+        text: "HUNNY BADG3R"
         icon: /apple-touch-icon.png
-        iconHeight: 35
+        iconHeight: 50
 
     # profile-mode
     profileMode:
@@ -74,12 +74,12 @@ params:
         Content: Welcome to my blog
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
-        - name: github
-          url: "https://github.com/"
+       # - name: twitter
+       #   url: "https://twitter.com/"
+       # - name: stackoverflow
+       #   url: "https://stackoverflow.com"
+       # - name: github
+       #   url: "https://github.com/"
 
     analytics:
         google:
@@ -120,7 +120,7 @@ menu:
           url: /tags/
           weight: 20
         - identifier: hunnybadg3r
-          name: example.org
+          name: blog
           url: http://hunnybadg3r.github.io/
           weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
