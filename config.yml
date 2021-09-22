@@ -4,7 +4,7 @@ paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
-buildDrafts: true
+buildDrafts: false
 buildFuture: false
 buildExpired: false
 
@@ -121,7 +121,7 @@ menu:
           weight: 20
         - identifier: hunnybadg3r
           name: example.org
-          url: https://example.org
+          url: http://hunnybadg3r.github.io/
           weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
