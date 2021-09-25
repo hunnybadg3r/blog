@@ -1,6 +1,8 @@
 ---
-title: "Drawing Without Fear"
+title: "겁내지 않고 그림 그리는 법"
 date: 2021-09-25T16:35:26+09:00
+tags: ["human", "overthinking"]
+categories: ["book"]
 ---
 
 ## 제목
