@@ -54,8 +54,8 @@ params:
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "HUNNY BADG3R"
-        icon: /apple-touch-icon.png
+        text: "\U0001F36F\U0001F9A1 hunny badg3r "
+        icon: 
         iconHeight: 50
 
     # profile-mode
@@ -75,8 +75,8 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "\U0001F36F\U0001F9A1 \U0001F44B"
-        Content: Welcome to my blog.
+        Title: "Welcome\U0001F44B"
+        Content:
 
     #socialIcons:
        # - name: twitter
