@@ -3,6 +3,7 @@ title: "돈의 역사는 되풀이 된다"
 date: 2022-01-26T13:00:00+09:00
 tags: ["books"]
 categories: ["trading"]
+author: hh
 ---
 
 # 돈의 역사는 되풀이 된다
